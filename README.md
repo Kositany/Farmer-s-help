@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Farmers-help
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -36,3 +37,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# Farmer-s-help
+>>>>>>> e562228a419b7fb194a8c949398c42c9a843ab3b

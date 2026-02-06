@@ -4,9 +4,9 @@
     <nav class="navbar" ref="navbar">
       <div class="nav-container">
         <a href="#" class="logo" ref="logo">
-          <img src="/src/images/SGC-LOGO-NEW.jpeg" alt="SGC Logo" class="logo-image">
+          <img src="/src/images/SGC-LOGO-NEW.jpeg" alt="Farmer's-Help Logo" class="logo-image">
           <span class="logo-text">
-            <span class="logo-s">S</span><span class="logo-g">G</span><span class="logo-c">C</span>
+            <span class="logo-s">Farmer's-Help</span>
           </span>
         </a>
         <ul class="nav-links" ref="navLinks">
@@ -57,7 +57,7 @@
         <div class="hero-content">
           <div class="hero-badge" ref="heroBadge">
             <span class="badge-dot"></span>
-            <span>Revolutionizing Agriculture</span>
+            <span>Grow smarter for a better harvest</span>
           </div>
           
           <h1 class="hero-title" ref="heroTitle">
@@ -66,8 +66,7 @@
           </h1>
           
           <p class="hero-description" ref="heroDesc">
-            SGC delivers innovative AgriTech solutions to empower farmers, boost yields, 
-            and promote sustainable practices for a growing world.
+            Smart Greenhouse Container is a sensor-rich unit built to help farmers grow smarter by providing real-time soil and environmental data.
           </p>
           
           <div class="hero-actions" ref="heroActions">
@@ -94,8 +93,8 @@
             </div>
             <div class="stat-divider"></div>
             <div class="stat-item">
-              <div class="stat-number">100+</div>
-              <div class="stat-label">Happy Farmers</div>
+              <div class="stat-number">50%</div>
+              <div class="stat-label">Better Soil Health</div>
             </div>
           </div>
         </div>
@@ -208,9 +207,7 @@
           </span>
           <h2 class="section-title">Smart Greenhouse <span class="gradient-text">Container</span></h2>
           <p class="section-description">
-            A fully-integrated, climate-controlled farming environment built within a 
-            standard shipping container. It combines IoT sensors, automated irrigation, 
-            and intelligent lighting to create the perfect growing conditions.
+            The Smart Greenhouse Container (SGC) brings intelligence to modern farming. Instead of guessing what your crops need, SGC gives you real-time data from the soil and growing environment, helping you respond faster, waste less, and grow more efficiently, no matter where you farm.
           </p>
         </div>
         
@@ -230,8 +227,8 @@
           </div>
           
           <div class="product-info" ref="productInfo">
-            <div class="product-tag">Premium Solution</div>
-            <h3 class="product-heading">Maximize Yield, Minimize Footprint</h3>
+            <div class="product-tag">Maximize yields, minimize wastage</div>
+            <h3 class="product-heading">Key Capabilities</h3>
             <p class="product-text">
               The SGC is engineered for efficiency and scalability. Grow a wide variety of 
               crops anywhere in the world, regardless of external climate conditions. Our system 
@@ -244,19 +241,25 @@
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <polyline points="20 6 9 17 4 12"/>
                 </svg>
-                <span>Climate-controlled environment</span>
+                <span>Real-time soil and environmental monitoring</span>
               </div>
               <div class="feature-item">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <polyline points="20 6 9 17 4 12"/>
                 </svg>
-                <span>IoT sensors & automation</span>
+                <span>IoT-powered data transmission via ESP32</span>
               </div>
               <div class="feature-item">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <polyline points="20 6 9 17 4 12"/>
                 </svg>
-                <span>Year-round harvesting</span>
+                <span>Data-driven farming and irrigation decisions</span>
+              </div>
+              <div class="feature-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <polyline points="20 6 9 17 4 12"/>
+                </svg>
+                <span>Supports more predictable, year-round production</span>
               </div>
             </div>
             

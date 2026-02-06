@@ -187,13 +187,16 @@
   letter-spacing: -0.5px;
 }
 
-.logo-s,
-.logo-c {
+.logo-s {
   color: var(--white);
 }
 
 .logo-g {
   color: var(--jungle-green);
+}
+
+.logo-c {
+  color: var(--white);
 }
 
 .nav-links {
